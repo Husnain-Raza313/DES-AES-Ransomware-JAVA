@@ -2,7 +2,8 @@
 
 
 # DES-Ransomware-JAVA
-A Ransomware which uses DES algorithm for Encrypting and Decrypting Files , developed on JAVA.
+A Ransomware which uses DES algorithm for Encrypting and Decrypting Files , developed on JAVA..
+<i>It can use AES algorithm for encryption and decryption, by replacing "DES" with "AES" in the code</i>
 
 <h3>HOW IT WORKS!!!</h3>
 
