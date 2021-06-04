@@ -7,8 +7,6 @@ A Ransomware which uses DES algorithm for Encrypting and Decrypting Files , deve
 <h3>HOW IT WORKS!!!</h3>
 
 <h5>It can encrypt any type of file using DES algorithm.</h5>
-![cover-ransomware](https://user-images.githubusercontent.com/85040899/120737735-0d640100-c508-11eb-8852-bf52085d7035.png)
-
 
 <h2>VIDEO:</h2>
 
